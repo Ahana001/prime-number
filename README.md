@@ -12,3 +12,8 @@ Calculate and show her whether it's a prime number or not.
 give an error if DD is more than 31 or MM is more than 12
 
 check the entire date for validity like 30/02 can never happen.
+
+# Tech Stack
+chalk
+
+readline-sync
